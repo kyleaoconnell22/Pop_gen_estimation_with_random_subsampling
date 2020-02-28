@@ -1,0 +1,13 @@
+catamitusbarat14426	south
+catamitusbarat14427	south
+catamitusdempo17495	south
+catamituskaba7610	south
+catamitusmasagi14726	south
+catamitusngarip14087	south
+catamituspagar17529	south
+modestuslahat17636	south
+catamitusagam19165	north
+catamitusgadis17768	north
+catamitusgadis17772	north
+catamitusutara16681	north
+modestusutara16788	north

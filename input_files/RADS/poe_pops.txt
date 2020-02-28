@@ -1,0 +1,14 @@
+14899_poe_kerinci	south
+15532_poecilinotus_Pangururan	north
+15533_poecilonotus_Pangururan	north
+15534_modestus_Pangururan	north
+15535_modestus_Pangururan	north
+15610_poecilonotus_Tele	north
+15965_poe_kerinci	south
+15976_poe_kerinci	south
+16480_poecilonotus_Sibayak	north
+16483_poecilonotus_Sibayak	north
+16722_poecilonotus_BatangGadis	north	
+17639_poe_dempo	south
+18145_poe_kaba	south
+18188_modestus_kaba	south

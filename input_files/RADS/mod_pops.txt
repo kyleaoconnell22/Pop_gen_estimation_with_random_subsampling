@@ -1,0 +1,10 @@
+14747_modestus_kerinci	south
+15539_modestus_Pangururan	north
+15984_modestus_kerinci	south
+15988_modestus_Tujuh	south
+16851_modestus_Samosir	north
+16852_modestus_Samosir	north
+17418_modestus_demop	south
+18460_modestus_pagaralam	north
+19407_modestus_aceh	north
+7670_modestus_dempo	south
